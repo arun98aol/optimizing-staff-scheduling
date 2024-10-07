@@ -49,13 +49,13 @@ pip install pyomo
 - [Optimization Techniques in Operations Research](https://www.informs.org/Explore/Operations-Research-Analytics)
 
 ## Authors
-- Grace Trane
-- Arun Ganapathy
-- Michael Neuhaus
-- Carrie Cox
+- [Grace Trane](https://github.com/gtrane)
+- [Arun Ganapathy](https://github.com/@arun98aol)
+- Michael Neuhaus 
+- Carrie Cox 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-For any questions or feedback, feel free to reach out via GitHub or through our project presentation.
+For any questions (like access to the dataset) or feedback, feel free to reach out via GitHub or through our project presentation.
