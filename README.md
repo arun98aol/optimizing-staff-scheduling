@@ -3,7 +3,7 @@
 ## Project Overview
 This repository contains the code, report, and presentation for our project on optimizing staff scheduling based on data from Iowa City Papa John's. The aim of this project is to develop an integer linear programming (ILP) model to automate and improve the efficiency of the staff scheduling process, which is currently handled manually.
 
-![Optimization Results](optimization_results.png)
+![Slide Cover](slide.png)
 
 ## Repository Structure
 - **`staff_scheduling_optimization.ipynb`**: Jupyter notebook with the code for the optimization model using Pyomo.
