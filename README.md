@@ -1,7 +1,7 @@
 # Staff Scheduling Optimization for Papa John's Iowa City
 
 ## Project Overview
-This repository contains the code, report, and presentation for our project on optimizing staff scheduling based on data from Iowa City Papa John's. The aim of this project is to develop an integer linear programming (ILP) model to automate and improve the efficiency of the staff scheduling process, which is currently handled manually.
+This repository includes the code, report, and presentation for optimizing staff scheduling at Iowa City Papa John's. The project employs an integer linear programming (ILP) model to automate and enhance the efficiency of the existing manual scheduling process. Minimalistic data visualization is utilized to clearly present the results and insights.
 
 ![Slide Cover](slide.png)
 
